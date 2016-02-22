@@ -20,7 +20,7 @@ page.title=Context Awareness on Android Wear
 </style>
 
 
-<p>Some of the most powerful user experiences with Android Wear are based on context-aware
+<p>New change for PTest 3 - Some of the most powerful user experiences with Android Wear are based on context-aware
 notifications and actions. By using device sensors and other contextual cues, your app can reveal
 information and functionality precisely when the user needs it, at a glance.</p>
 
