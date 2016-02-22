@@ -9,7 +9,7 @@ startpage=true
 <div id="tb-wrapper">
 <div id="tb">
 
-<h2>Change for GitBash Test - Dependencies and prerequisites</h2>
+<h2>Dependencies and prerequisites</h2>
 <ul>
   <li>Android 2.2 (API level 8) and higher</li>
 </ul>
